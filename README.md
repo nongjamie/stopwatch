@@ -1,8 +1,11 @@
 
 # Stopwatch tasks by Sathira Kittisukmongkol (5910545868)
 
-I ran the tasks on a MacBookPro , and got these results:
-Task 					| Time 
+
+ran the tasks on a MacBookPro , and got these results:
+
+
+Task 					| Time 
 ----------------------------------------|-------: 
 Append 50,000 chars to String 		| 1.272830 sec 
 
@@ -21,4 +24,6 @@ having the same values as in task 4.
 Sum 1,000,000,000 BigDecimal objects  	| 9.462163 sec
 having the same values as in task 4.
 
-## Explanation of ResultsI have no idea why the times are different.
+
+## Explanation of Results
+I have no idea why the times are different.
