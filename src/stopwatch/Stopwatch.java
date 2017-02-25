@@ -11,8 +11,6 @@ public class Stopwatch {
 	private long startTime;
 	//Save the time that task stop.
 	private long stopTime;
-	//Save the time that task working.
-	private long currentTime;
 	//Save the status of the Stopwatch.
 	private boolean isRun;
 
